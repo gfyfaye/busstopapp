@@ -34,5 +34,5 @@ Bus Predictions:
   Vehicle #2103, Route #20, Direction: Westbound, ETA: 12 minutes
 
 Contributors
-- Northwestern University CS 211 Team
+- Grace Yang
 - Professor Joseph Hummel
