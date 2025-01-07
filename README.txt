@@ -21,10 +21,6 @@ Dependencies
 - CURL library for API communication.
 - nlohmann/json library for JSON parsing.
 
-Testing
-- Test with real-time data using an API key.
-- Test offline using provided mock data files in the /mock directory.
-
 Example Output
 Enter building name (* to list, @ for stops): University Library
 Closest southbound stop: Sheridan & Foster (0.2 miles)
